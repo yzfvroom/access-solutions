@@ -93,7 +93,7 @@ Supported Solutions
    :caption: Content:
    :glob:
 
-   solution11/guide/guide.rst
+   docs/solution11/guide/guide.rst
 
 
 
